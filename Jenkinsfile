@@ -1,4 +1,4 @@
-
+*/ ds/* 
 #!/usr/bin/env groovy
 
 import hudson.model.*
